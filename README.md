@@ -18,6 +18,6 @@ Step 2: Install npm and cypress
 npm install
 npm install cypress --save-dev
 
-Step 4: Open Cypress Test Runner
+Step 3: Open Cypress Test Runner
 npx cypress open
  
